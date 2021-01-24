@@ -1,0 +1,10 @@
+/* Make sure to target the component specifically. */
+.Switch {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+.Switch--off {
+  background-color: black;
+  color: white;
+}

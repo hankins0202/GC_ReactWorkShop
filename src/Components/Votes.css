@@ -1,0 +1,9 @@
+.Votes {
+  border: 2px solid darkred;
+  padding: 10px;
+  margin: 10px;
+}
+.Choices {
+  font-weight: bold;
+  text-align: left;
+}
